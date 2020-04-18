@@ -8,3 +8,7 @@
 - Align airplane staff with robot - layers overlap during movement
 - Add robot sketch when following the line in localization and mapping, some illustration of the robot so that it is known what is moving
 - substitute brain picture with more shiny one and more suggestive towards artificial intelligence
+- add table signs for mission information 
+- add explosion view of the sensors
+- add explosion view of the physical features (weight, velocity)
+- fix icons in the movement-path scene
