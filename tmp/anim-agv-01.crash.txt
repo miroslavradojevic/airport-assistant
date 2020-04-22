@@ -1,0 +1,239 @@
+# Blender 2.79 (sub 0), Commit date: 2017-09-11 10:43, Hash 5bd8ac9abfa
+Read library:  '/home/miro/source/airport-assistant/symbols.blend', '//symbols.blend', parent '<direct>'  # Info
+Read library:  '/home/miro/source/airport-assistant/robot.blend', '//robot.blend', parent '<direct>'  # Info
+Read library:  '/home/miro/source/airport-assistant/nuctech_logo.blend', '//nuctech_logo.blend', parent '<direct>'  # Info
+Read library:  '/home/miro/source/airport-assistant/assets.blend', '//assets.blend', parent '<direct>'  # Info
+Read library:  '/home/miro/source/airport-assistant/scenery.blend', '//scenery.blend', parent '<direct>'  # Info
+LIB: Group: 'passengers-02' missing from '/home/miro/source/airport-assistant/scenery.blend', parent '<direct>'  # Warning
+bpy.context.object.modifiers["Array"].count = 20  # Property
+bpy.context.object.modifiers["Array"].count = 19  # Property
+bpy.context.object.modifiers["Array"].count = 18  # Property
+bpy.context.object.modifiers["Array"].count = 17  # Property
+bpy.context.object.modifiers["Array"].count = 16  # Property
+bpy.context.object.modifiers["Array"].count = 15  # Property
+bpy.context.object.modifiers["Array"].count = 14  # Property
+bpy.context.object.modifiers["Array"].count = 13  # Property
+bpy.context.object.modifiers["Array"].count = 12  # Property
+bpy.context.object.modifiers["Array"].count = 11  # Property
+bpy.context.object.modifiers["Array"].count = 10  # Property
+bpy.context.object.modifiers["Array"].count = 9  # Property
+bpy.context.object.modifiers["Array"].count = 8  # Property
+bpy.context.object.modifiers["Array"].count = 7  # Property
+bpy.context.object.modifiers["Array"].count = 6  # Property
+bpy.context.object.modifiers["Array"].count = 5  # Property
+bpy.context.object.modifiers["Array"].count = 4  # Property
+bpy.context.object.modifiers["Array"].count = 5  # Property
+bpy.context.object.modifiers["Array"].count = 6  # Property
+bpy.context.object.modifiers["Array"].count = 7  # Property
+bpy.context.object.modifiers["Array"].count = 8  # Property
+bpy.context.object.modifiers["Array"].count = 9  # Property
+bpy.context.object.modifiers["Array"].count = 1  # Property
+bpy.ops.anim.keyframe_insert_menu(type='__ACTIVE__', confirm_success=True)  # Operator
+Successfully added 9 keyframes for keying set 'LocRotScale'  # Info
+bpy.context.object.modifiers["Array"].count = 2  # Property
+bpy.context.object.modifiers["Array"].count = 3  # Property
+bpy.context.object.modifiers["Array"].count = 4  # Property
+bpy.context.object.modifiers["Array"].count = 5  # Property
+bpy.context.object.modifiers["Array"].count = 6  # Property
+bpy.context.object.modifiers["Array"].count = 7  # Property
+bpy.context.object.modifiers["Array"].count = 8  # Property
+bpy.context.object.modifiers["Array"].count = 9  # Property
+bpy.context.object.modifiers["Array"].count = 10  # Property
+bpy.context.object.modifiers["Array"].count = 11  # Property
+bpy.context.object.modifiers["Array"].count = 12  # Property
+bpy.context.object.modifiers["Array"].count = 13  # Property
+bpy.context.object.modifiers["Array"].count = 14  # Property
+bpy.context.object.modifiers["Array"].count = 15  # Property
+bpy.context.object.modifiers["Array"].count = 16  # Property
+bpy.context.object.modifiers["Array"].count = 17  # Property
+bpy.context.object.modifiers["Array"].count = 18  # Property
+bpy.context.object.modifiers["Array"].count = 19  # Property
+bpy.context.object.modifiers["Array"].count = 20  # Property
+bpy.context.object.modifiers["Array"].count = 21  # Property
+bpy.context.object.modifiers["Array"].count = 22  # Property
+bpy.context.object.modifiers["Array"].count = 23  # Property
+bpy.context.object.modifiers["Array"].count = 24  # Property
+bpy.context.object.modifiers["Array"].count = 25  # Property
+bpy.context.object.modifiers["Array"].count = 26  # Property
+bpy.context.object.modifiers["Array"].count = 27  # Property
+bpy.context.object.modifiers["Array"].count = 28  # Property
+bpy.context.object.modifiers["Array"].count = 29  # Property
+bpy.context.object.modifiers["Array"].count = 30  # Property
+bpy.context.object.modifiers["Array"].count = 31  # Property
+bpy.context.object.modifiers["Array"].count = 32  # Property
+bpy.context.object.modifiers["Array"].count = 33  # Property
+bpy.context.object.modifiers["Array"].count = 34  # Property
+bpy.context.object.modifiers["Array"].count = 35  # Property
+bpy.ops.view3d.snap_cursor_to_selected()  # Operator
+bpy.ops.transform.rotate(value=0.434347, axis=(-0, -0, -1), constraint_axis=(False, False, False), constraint_orientation='GLOBAL', mirror=False, proportional='DISABLED', proportional_edit_falloff='SMOOTH', proportional_size=1)  # Operator
+bpy.context.object.modifiers["Array"].count = 36  # Property
+bpy.context.object.modifiers["Array"].count = 37  # Property
+bpy.ops.transform.rotate(value=0.436211, axis=(-0, -0, -1), constraint_axis=(False, False, False), constraint_orientation='GLOBAL', mirror=False, proportional='DISABLED', proportional_edit_falloff='SMOOTH', proportional_size=1)  # Operator
+bpy.ops.object.delete(use_global=False)  # Operator
+bpy.ops.transform.rotate(value=0.427198, axis=(-0, -0, -1), constraint_axis=(False, False, False), constraint_orientation='GLOBAL', mirror=False, proportional='DISABLED', proportional_edit_falloff='SMOOTH', proportional_size=1)  # Operator
+bpy.context.object.modifiers["Array"].count = 1  # Property
+bpy.ops.anim.keyframe_insert_menu(type='__ACTIVE__', confirm_success=True)  # Operator
+Successfully added 9 keyframes for keying set 'LocRotScale'  # Info
+bpy.ops.object.modifier_remove(modifier="Curve")  # Operator
+bpy.ops.anim.keyframe_delete_v3d()  # Operator
+Object 'Plane.010' successfully had 1 keyframes removed  # Info
+bpy.context.object.modifiers["Array"].count = 1  # Property
+bpy.ops.transform.rotate(value=0.44187, axis=(-0, -0, -1), constraint_axis=(False, False, False), constraint_orientation='GLOBAL', mirror=False, proportional='DISABLED', proportional_edit_falloff='SMOOTH', proportional_size=1)  # Operator
+bpy.context.object.rotation_euler[2] = -0.436332  # Property
+bpy.ops.anim.keyframe_insert_menu(type='__ACTIVE__', confirm_success=True)  # Operator
+Successfully added 9 keyframes for keying set 'LocRotScale'  # Info
+bpy.context.object.rotation_euler[2] = -0.436332  # Property
+bpy.ops.anim.keyframe_insert_menu(type='__ACTIVE__', confirm_success=True)  # Operator
+Successfully added 9 keyframes for keying set 'LocRotScale'  # Info
+bpy.ops.object.select_all(action='TOGGLE')  # Operator
+bpy.context.object.modifiers["Array"].count = 36  # Property
+bpy.context.object.modifiers["Array"].count = 35  # Property
+bpy.context.object.modifiers["Array"].count = 34  # Property
+bpy.context.object.modifiers["Array"].count = 33  # Property
+bpy.context.object.modifiers["Array"].count = 32  # Property
+bpy.context.object.modifiers["Array"].count = 31  # Property
+bpy.context.object.modifiers["Array"].count = 30  # Property
+bpy.context.object.modifiers["Array"].count = 29  # Property
+bpy.context.object.modifiers["Array"].count = 28  # Property
+bpy.context.object.modifiers["Array"].count = 27  # Property
+bpy.context.object.modifiers["Array"].count = 26  # Property
+bpy.context.object.modifiers["Array"].count = 25  # Property
+bpy.context.object.modifiers["Array"].count = 24  # Property
+bpy.context.object.modifiers["Array"].count = 23  # Property
+bpy.context.object.modifiers["Array"].count = 22  # Property
+bpy.context.object.modifiers["Array"].count = 21  # Property
+bpy.context.object.modifiers["Array"].count = 20  # Property
+bpy.context.object.modifiers["Array"].count = 19  # Property
+bpy.context.object.modifiers["Array"].count = 18  # Property
+bpy.context.object.modifiers["Array"].count = 17  # Property
+bpy.context.object.modifiers["Array"].count = 16  # Property
+bpy.context.object.modifiers["Array"].count = 15  # Property
+bpy.context.object.modifiers["Array"].count = 14  # Property
+bpy.context.object.modifiers["Array"].relative_offset_displace[0] = 0.9  # Property
+bpy.context.object.modifiers["Array"].relative_offset_displace[0] = 0.95  # Property
+No more keyframes to jump to in this direction  # Info
+bpy.context.object.modifiers["Array"].count = 38  # Property
+bpy.context.object.modifiers["Array"].count = 39  # Property
+bpy.ops.object.select_all(action='TOGGLE')  # Operator
+bpy.ops.anim.keyframe_insert_menu(type='__ACTIVE__', confirm_success=True)  # Operator
+Successfully added 9 keyframes for keying set 'LocRotScale'  # Info
+bpy.ops.transform.translate(value=(0, -5.99834, 0), constraint_axis=(False, True, False), constraint_orientation='GLOBAL', mirror=False, proportional='DISABLED', proportional_edit_falloff='SMOOTH', proportional_size=1)  # Operator
+bpy.ops.anim.keyframe_insert_menu(type='__ACTIVE__', confirm_success=True)  # Operator
+Successfully added 9 keyframes for keying set 'LocRotScale'  # Info
+bpy.ops.action.interpolation_type(type='LINEAR')  # Operator
+bpy.context.object.location[2] = 0.001  # Property
+bpy.ops.anim.keyframe_insert_menu(type='__ACTIVE__', confirm_success=True)  # Operator
+Successfully added 9 keyframes for keying set 'LocRotScale'  # Info
+bpy.context.object.location[2] = 0.001  # Property
+bpy.ops.anim.keyframe_insert_menu(type='__ACTIVE__', confirm_success=True)  # Operator
+Successfully added 9 keyframes for keying set 'LocRotScale'  # Info
+bpy.ops.transform.transform(mode='TIME_TRANSLATE', value=(-10, 0, 0, 0), axis=(0, 0, 0), constraint_axis=(False, False, False), constraint_orientation='GLOBAL', mirror=False, proportional='DISABLED', proportional_edit_falloff='SMOOTH', proportional_size=1)  # Operator
+bpy.ops.transform.transform(mode='TIME_TRANSLATE', value=(20, 0, 0, 0), axis=(0, 0, 0), constraint_axis=(False, False, False), constraint_orientation='GLOBAL', mirror=False, proportional='DISABLED', proportional_edit_falloff='SMOOTH', proportional_size=1)  # Operator
+bpy.ops.mesh.primitive_cone_add(radius1=0.999, radius2=0, depth=1.998, view_align=False, enter_editmode=False, location=(-0.841344, -0.233591, -1.11647e-06), layers=(True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False))  # Operator
+bpy.ops.view3d.snap_cursor_to_selected()  # Operator
+bpy.ops.view3d.snap_cursor_to_selected()  # Operator
+bpy.ops.object.rotation_clear(clear_delta=False)  # Operator
+bpy.ops.object.location_clear(clear_delta=False)  # Operator
+bpy.ops.view3d.snap_cursor_to_selected()  # Operator
+bpy.ops.transform.resize(value=(1, 1, 0.5), constraint_axis=(False, False, True), constraint_orientation='GLOBAL', mirror=False, proportional='DISABLED', proportional_edit_falloff='SMOOTH', proportional_size=1)  # Operator
+bpy.context.object.rotation_euler[1] = 3.14159  # Property
+bpy.ops.transform.translate(value=(0, 0, -0.585067), constraint_axis=(False, False, True), constraint_orientation='GLOBAL', mirror=False, proportional='DISABLED', proportional_edit_falloff='SMOOTH', proportional_size=1)  # Operator
+bpy.ops.transform.translate(value=(0, 0, 0.115992), constraint_axis=(False, False, True), constraint_orientation='GLOBAL', mirror=False, proportional='DISABLED', proportional_edit_falloff='SMOOTH', proportional_size=1)  # Operator
+bpy.ops.transform.resize(value=(0.773932, 0.773932, 0.773932), constraint_axis=(False, False, False), constraint_orientation='GLOBAL', mirror=False, proportional='DISABLED', proportional_edit_falloff='SMOOTH', proportional_size=1)  # Operator
+bpy.context.space_data.context = 'MATERIAL'  # Property
+bpy.ops.object.material_slot_remove()  # Operator
+bpy.ops.transform.resize(value=(1.37171, 1.37171, 1.37171), constraint_axis=(False, False, False), constraint_orientation='GLOBAL', mirror=False, proportional='DISABLED', proportional_edit_falloff='SMOOTH', proportional_size=1)  # Operator
+bpy.ops.transform.resize(value=(1, 1, 0.5), constraint_axis=(False, False, True), constraint_orientation='GLOBAL', mirror=False, proportional='DISABLED', proportional_edit_falloff='SMOOTH', proportional_size=1)  # Operator
+bpy.ops.transform.resize(value=(1, 1, 0.5), constraint_axis=(False, False, True), constraint_orientation='GLOBAL', mirror=False, proportional='DISABLED', proportional_edit_falloff='SMOOTH', proportional_size=1)  # Operator
+bpy.ops.transform.resize(value=(1, 1, 0.5), constraint_axis=(False, False, True), constraint_orientation='GLOBAL', mirror=False, proportional='DISABLED', proportional_edit_falloff='SMOOTH', proportional_size=1)  # Operator
+bpy.ops.transform.translate(value=(0, -0.174568, 0), constraint_axis=(False, True, False), constraint_orientation='GLOBAL', mirror=False, proportional='DISABLED', proportional_edit_falloff='SMOOTH', proportional_size=1)  # Operator
+bpy.ops.transform.resize(value=(0.854664, 0.854664, 0.854664), constraint_axis=(False, False, False), constraint_orientation='GLOBAL', mirror=False, proportional='DISABLED', proportional_edit_falloff='SMOOTH', proportional_size=1)  # Operator
+bpy.ops.anim.keyframe_insert_menu(type='__ACTIVE__', confirm_success=True)  # Operator
+Successfully added 9 keyframes for keying set 'LocRotScale'  # Info
+bpy.ops.anim.keyframe_insert_menu(type='__ACTIVE__', confirm_success=True)  # Operator
+Successfully added 9 keyframes for keying set 'LocRotScale'  # Info
+bpy.ops.transform.resize(value=(0.298329, 0.298329, 0.298329), constraint_axis=(False, False, False), constraint_orientation='GLOBAL', mirror=False, proportional='DISABLED', proportional_edit_falloff='SMOOTH', proportional_size=1)  # Operator
+bpy.ops.anim.keyframe_insert_menu(type='__ACTIVE__', confirm_success=True)  # Operator
+Successfully added 9 keyframes for keying set 'LocRotScale'  # Info
+bpy.ops.anim.keyframe_insert_menu(type='__ACTIVE__', confirm_success=True)  # Operator
+Successfully added 9 keyframes for keying set 'LocRotScale'  # Info
+bpy.ops.transform.translate(value=(0, -3.12941, 0), constraint_axis=(False, True, False), constraint_orientation='GLOBAL', mirror=False, proportional='DISABLED', proportional_edit_falloff='SMOOTH', proportional_size=1)  # Operator
+bpy.ops.anim.keyframe_insert_menu(type='__ACTIVE__', confirm_success=True)  # Operator
+Successfully added 9 keyframes for keying set 'LocRotScale'  # Info
+bpy.ops.object.delete(use_global=False)  # Operator
+bpy.ops.transform.transform(mode='TIME_TRANSLATE', value=(50, 0, 0, 0), axis=(0, 0, 0), constraint_axis=(False, False, False), constraint_orientation='GLOBAL', mirror=False, proportional='DISABLED', proportional_edit_falloff='SMOOTH', proportional_size=1)  # Operator
+bpy.data.node_groups["Shader Nodetree"].nodes["Refraction BSDF"].inputs[0].default_value[3] = 0.5  # Property
+bpy.data.node_groups["Shader Nodetree"].nodes["Refraction BSDF"].inputs[0].default_value = (0.723055, 0.434154, 0.313989, 0.5)  # Property
+bpy.context.object.active_material.alpha = 0.5  # Property
+bpy.context.object.active_material.diffuse_color = (0.723055, 0.434154, 0.313989)  # Property
+bpy.ops.object.editmode_toggle()  # Operator
+bpy.ops.mesh.select_all(action='TOGGLE')  # Operator
+bpy.ops.mesh.select_all(action='TOGGLE')  # Operator
+bpy.ops.mesh.select_all(action='TOGGLE')  # Operator
+No edges selected  # Warning
+bpy.ops.object.editmode_toggle()  # Operator
+bpy.ops.view3d.snap_cursor_to_selected()  # Operator
+bpy.ops.object.editmode_toggle()  # Operator
+bpy.data.node_groups["Shader Nodetree"].nodes["Anisotropic BSDF"].distribution = 'ASHIKHMIN_SHIRLEY'  # Property
+bpy.ops.object.editmode_toggle()  # Operator
+bpy.ops.view3d.snap_cursor_to_selected()  # Operator
+bpy.ops.view3d.snap_cursor_to_selected()  # Operator
+bpy.ops.transform.resize(value=(1.52491, 1.52491, 1.52491), constraint_axis=(False, False, True), constraint_orientation='GLOBAL', mirror=False, proportional='DISABLED', proportional_edit_falloff='SMOOTH', proportional_size=1)  # Operator
+bpy.ops.object.editmode_toggle()  # Operator
+bpy.ops.object.editmode_toggle()  # Operator
+bpy.ops.object.editmode_toggle()  # Operator
+bpy.ops.object.editmode_toggle()  # Operator
+bpy.ops.object.editmode_toggle()  # Operator
+bpy.ops.object.editmode_toggle()  # Operator
+bpy.ops.object.editmode_toggle()  # Operator
+bpy.ops.object.editmode_toggle()  # Operator
+bpy.ops.object.editmode_toggle()  # Operator
+bpy.ops.object.editmode_toggle()  # Operator
+bpy.ops.object.editmode_toggle()  # Operator
+bpy.ops.mesh.delete(type='EDGE')  # Operator
+bpy.ops.object.editmode_toggle()  # Operator
+bpy.ops.transform.resize(value=(1.58878, 1.58878, 1.58878), constraint_axis=(False, False, False), constraint_orientation='GLOBAL', mirror=False, proportional='DISABLED', proportional_edit_falloff='SMOOTH', proportional_size=1)  # Operator
+bpy.ops.object.editmode_toggle()  # Operator
+bpy.ops.mesh.delete(type='EDGE')  # Operator
+bpy.ops.mesh.delete(type='EDGE')  # Operator
+bpy.ops.mesh.delete(type='EDGE')  # Operator
+bpy.ops.mesh.delete(type='EDGE')  # Operator
+bpy.ops.mesh.delete(type='EDGE')  # Operator
+bpy.ops.mesh.delete(type='EDGE')  # Operator
+bpy.ops.mesh.delete(type='EDGE')  # Operator
+bpy.ops.mesh.delete(type='EDGE')  # Operator
+bpy.ops.mesh.delete(type='EDGE')  # Operator
+bpy.ops.object.editmode_toggle()  # Operator
+bpy.ops.transform.translate(value=(0, 0, 0.0666145), constraint_axis=(False, False, True), constraint_orientation='GLOBAL', mirror=False, proportional='DISABLED', proportional_edit_falloff='SMOOTH', proportional_size=1)  # Operator
+bpy.ops.anim.keyframe_insert_menu(type='__ACTIVE__', confirm_success=True)  # Operator
+Successfully added 9 keyframes for keying set 'LocRotScale'  # Info
+No more keyframes to jump to in this direction  # Info
+No more keyframes to jump to in this direction  # Info
+No more keyframes to jump to in this direction  # Info
+No more keyframes to jump to in this direction  # Info
+No more keyframes to jump to in this direction  # Info
+No more keyframes to jump to in this direction  # Info
+No more keyframes to jump to in this direction  # Info
+No more keyframes to jump to in this direction  # Info
+No more keyframes to jump to in this direction  # Info
+No more keyframes to jump to in this direction  # Info
+
+# backtrace
+./blender(BLI_system_backtrace+0x20) [0x1a6c8e0]
+./blender() [0x107a525]
+/lib/x86_64-linux-gnu/libc.so.6(+0x3ef20) [0x7f092eae4f20]
+./blender() [0x51d87ea]
+./blender() [0x52046f4]
+./blender(calloc+0x42b) [0x51ce53b]
+./blender(MEM_lockfree_callocN+0x1f) [0x1c174ff]
+./blender() [0x111a96a]
+./blender() [0x111c4ae]
+./blender(outliner_build_tree+0x406) [0x111d346]
+./blender(draw_outliner+0x72) [0x11111e2]
+./blender() [0x110c487]
+./blender(ED_region_do_draw+0x37d) [0x135981d]
+./blender(wm_draw_update+0x395) [0x107f745]
+./blender(WM_main+0x28) [0x107b118]
+./blender(main+0x3f8) [0x1018bd8]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xe7) [0x7f092eac7b97]
+./blender() [0x107747e]
