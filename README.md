@@ -1,4 +1,6 @@
-## Airport air-side autonomous mobile robot assistant
+## Airport assistant: autonomous mobile robot 
+
+Operates on the air-side 
 
 Designed in Blender 2.79b
 
