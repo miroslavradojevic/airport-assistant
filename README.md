@@ -1,5 +1,5 @@
-## Airport air-side autonomous robot assistant
+## Airport air-side autonomous mobile robot assistant
 
 Designed in Blender 2.79b
 
-See rendering https://vimeo.com/407463208
+Rendering https://vimeo.com/407463208
