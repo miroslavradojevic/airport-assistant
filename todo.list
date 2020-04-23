@@ -1,14 +1,14 @@
-- Wall estimates not necesary
-- Add new icons for humans in top-view navigation scene
-- Change color used for AI from green to blue/orange/violet/purple
-- Add arrow to the top-view navigation scene - movement path
-- Avoid "hitting" passenger when dropping the luggage 
-- Add text on top-view navigation scene
-- Darken grey background so that the robot is more visible
-- Align airplane staff with robot - layers overlap during movement
-- Add robot sketch when following the line in localization and mapping, some illustration of the robot so that it is known what is moving
-- substitute brain picture with more shiny one and more suggestive towards artificial intelligence
-- add table signs for mission information 
-- add explosion view of the sensors
-- add explosion view of the physical features (weight, velocity)
-- fix icons in the movement-path scene
++ Wall estimates not necesary
++ Add new icons for humans in top-view navigation scene
++ Change color used for AI from green to blue/orange/violet/purple
++ Add arrow to the top-view navigation scene - movement path
++ Avoid "hitting" passenger when dropping the luggage 
++ Add text on top-view navigation scene
++ Darken grey background so that the robot is more visible
++ Align airplane staff with robot - layers overlap during movement
++ Add robot sketch when following the line in localization and mapping, some illustration of the robot so that it is known what is moving
++ substitute brain picture with more shiny one and more suggestive towards artificial intelligence
++ add table signs for mission information 
++ add explosion view of the sensors
++ add explosion view of the physical features (weight, velocity)
++ fix icons in the movement-path scene
