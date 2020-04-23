@@ -1,3 +1,4 @@
+13/04/2020
 + Wall estimates not necesary
 + Add new icons for humans in top-view navigation scene
 + Change color used for AI from green to blue/orange/violet/purple
@@ -12,3 +13,6 @@
 + add explosion view of the sensors
 + add explosion view of the physical features (weight, velocity)
 + fix icons in the movement-path scene
+
+23/04/2020
+- 
